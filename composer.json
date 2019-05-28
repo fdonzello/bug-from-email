@@ -1,5 +1,5 @@
 {
-  "name": "sashas/bug-from-email",
+  "name": "fdonzello/bug-from-email",
   "description": "A Magento 2 module for issue #14952",
   "homepage": "http://www.extensions.sashas.org/",
   "type": "magento2-module",
